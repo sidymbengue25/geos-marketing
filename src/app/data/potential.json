@@ -1,0 +1,66 @@
+[
+    {
+        "coef": "Bread and Cereals",
+        "pourcentage": 26.6,
+        "mens": "778 038 300 XOF",
+        "annuel": "9 336 459 599 XOF"
+    },
+    {
+        "coef": "Meat",
+        "pourcentage": 9,
+        "mens": "263 246 041 XOF",
+        "annuel": "3 158 952 496 XOF"
+    },
+    {
+        "coef": "Fish and Seafood",
+        "pourcentage": "12",
+        "mens": "350 994 722 XOF",
+        "annuel": "4 211 936 661 XOF"
+
+    },
+    {
+        "coef": "Milk, Cheese and Eggs",
+        "pourcentage": 7.6,
+        "mens": "222 296 657 XOF",
+        "annuel": "2 667 559 885 XOF"
+    },
+    {
+        "coef": "Oils and Greases",
+        "pourcentage": 11.5,
+        "mens": "336 369 942 XOF",
+        "annuel": "4 036 439 300 XOF"
+
+    },
+    {
+        "coef": "Fruits",
+        "pourcentage": 1,
+        "mens": "29 249 560 XOF",
+        "annuel": "350 994 722 XOF"
+    },
+    {
+        "coef": "Vegetables",
+        "pourcentage": 12.2,
+        "mens": "336 369 942 XOF",
+        "annuel": "4 036 439 300 XOF"
+    },
+    {
+        "coef": "Sugar, jam, honey, confectionery",
+        "pourcentage": 6.9,
+        "mens": "201 821 965 XOF",
+        "annuel": "2 421 863 580 XOF"
+
+    },
+    {
+        "coef": "Soft drink",
+        "pourcentage": 9.3,
+        "mens": "272 020 909 XOF",
+        "annuel": "3 264 250 912 XOF"
+
+    },
+    {
+        "coef": "Other food products",
+        "pourcentage": 3.8,
+        "mens": "111 148 329 XOF",
+        "annuel": "1 333 779 943 XOF"
+    }
+]

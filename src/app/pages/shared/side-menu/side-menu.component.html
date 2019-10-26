@@ -1,0 +1,65 @@
+<section>
+    <h5>Geomarketing App</h5>
+    <h6><mat-icon>arrow_right_alt</mat-icon>Map</h6>
+    <mat-accordion class="col s12 m12 no-pad-left space bottom">
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <mat-panel-title>
+                    <a routerLink="/chalandise-zone" class="hover-fade">Chalandise Zone</a>
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <div class="col s10 m12 item">
+                <img src="assets/images/auchan.png" alt="" class="responsive-img">
+                <span>Auchan Scat Urban</span>
+            </div>
+
+            <div class="col s10 m12 item">
+                <img src="assets/images/primaire.png" alt="" class="responsive-img">
+                <span>Primary Zone</span>
+            </div>
+            
+            <div class="col s10 m12 item">
+                <img src="assets/images/secondaire.png" alt="" class="responsive-img">
+                <span>Secondary Zone</span>
+            </div>
+            
+            <div class="col s10 m12 item">
+                <img src="assets/images/concurents.png" alt="" class="responsive-img">
+                <span>Concurents</span>
+            </div>
+            
+            <div class="col s10 m12 item">
+                <img src="assets/images/dist.png" alt="" class="responsive-img">
+                <span>Distance to concurents</span>
+            </div>
+            
+            <div class="col s10 m12 item">
+                <img src="assets/images/transport.png" alt="" class="responsive-img">
+                <span>Public Transport</span>
+            </div>
+        </mat-expansion-panel>
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+            <mat-panel-title>
+                <a routerLink="/demography/population" class="hover-fade">Demography</a>
+            </mat-panel-title>
+            </mat-expansion-panel-header>
+            
+            <div class="col s2 m2 item">
+                <mat-checkbox color="primary" [disabled]="popChecked === true" [checked]="popChecked" (click)="navigateTo('/demography/population', true)"></mat-checkbox>
+            </div>
+            <div class="col s10 m10 item center-content">
+                <span>Population</span>
+            </div>
+            
+            <div class="col s2 m2 item">
+                <mat-checkbox color="primary" [disabled]="popChecked === false"  [checked]="!popChecked" (click)="navigateTo('/demography/families', false)"></mat-checkbox>
+            </div>
+            <div class="col s10 m10 item center-content">
+                <span>Families</span>
+            </div>
+        </mat-expansion-panel>
+    </mat-accordion>
+    <h6><mat-icon>arrow_right_alt</mat-icon> Statistique</h6>
+    <app-statistiques></app-statistiques>
+</section>

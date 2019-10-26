@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Lat": 14.738597, "Long": -17.461225, "nom": "Boutique De Mohamed" }, "geometry": { "type": "Point", "coordinates": [ -17.461225, 14.738597 ] } },
+{ "type": "Feature", "properties": { "Lat": 14.743811, "Long": -17.452817, "nom": "MIYA - Grand Yoff" }, "geometry": { "type": "Point", "coordinates": [ -17.452817, 14.743811 ] } },
+{ "type": "Feature", "properties": { "Lat": 14.734878, "Long": -17.440272, "nom": "Les Gourmets" }, "geometry": { "type": "Point", "coordinates": [ -17.440272, 14.734878 ] } },
+{ "type": "Feature", "properties": { "Lat": 14.732133, "Long": -17.442484, "nom": "Daily Market Alimentation Generale" }, "geometry": { "type": "Point", "coordinates": [ -17.442484, 14.732133 ] } },
+{ "type": "Feature", "properties": { "Lat": 14.726951, "Long": -17.443949, "nom": "Challenge Market" }, "geometry": { "type": "Point", "coordinates": [ -17.443949, 14.726951 ] } },
+{ "type": "Feature", "properties": { "Lat": 14.730055, "Long": -17.459301, "nom": "Saveurs et Saisons" }, "geometry": { "type": "Point", "coordinates": [ -17.459301, 14.730055 ] } },
+{ "type": "Feature", "properties": { "Lat": 14.733709, "Long": -17.464233, "nom": "Superette" }, "geometry": { "type": "Point", "coordinates": [ -17.464233, 14.733709 ] } },
+{ "type": "Feature", "properties": { "Lat": 14.733853, "Long": -17.461465, "nom": "Low Price Boutique Liberté" }, "geometry": { "type": "Point", "coordinates": [ -17.461465, 14.733853 ] } },
+{ "type": "Feature", "properties": { "Lat": 14.740269, "Long": -17.461581, "nom": "Elite Supermarché" }, "geometry": { "type": "Point", "coordinates": [ -17.461581, 14.740269 ] } },
+{ "type": "Feature", "properties": { "Lat": 14.738922, "Long": -17.448797, "nom": "Marché Grand Yoff" }, "geometry": { "type": "Point", "coordinates": [ -17.448797, 14.738922 ] } }
+]
+}

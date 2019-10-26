@@ -1,0 +1,30 @@
+[
+    {
+        "age": "0-4",
+        "pourcentage": 11.55,
+        "zone_chalandise": 17465,
+        "primaire": 8618,
+        "secondaire": 8847
+    },
+    {
+        "age": "5-14",
+        "pourcentage":25.28,
+        "zone_chalandise": 26678,
+        "primaire": 13164,
+        "secondaire": 13514
+    },
+    {
+        "age": "15-64",
+        "pourcentage": 54.57,
+        "zone_chalandise": 57588,
+        "primaire": 28416,
+        "secondaire": 29171
+    },
+    {
+        "age": "+65",
+        "pourcentage":3.6,
+        "zone_chalandise": 3799,
+        "primaire": 1875,
+        "secondaire": 1924
+    }
+]

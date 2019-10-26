@@ -1,0 +1,1 @@
+{ "type": "Feature", "properties": { "nom": "Auchan Scat Urbam II", "Lat": 14.73838, "Long": -17.456456, "tel": "+2217770000", "email": "test@auchan.com", "adresse": "Scat Urbam II" }, "geometry": { "type": "Point", "coordinates": [ -17.456456, 14.73838 ] } }

@@ -1,0 +1,51 @@
+[
+    {
+        "status": "Self employed",
+        "pourcentage": 52.4,
+        "zone_chalandise": 12063,
+        "primaire": 5952,
+        "secondaire": 6110
+    },
+    {
+        "status": "Employer / Patron",
+        "pourcentage": 5.5,
+        "zone_chalandise": 1266,
+        "primaire": 625,
+        "secondaire": 641
+    },
+    {
+        "status": "Employee / Permanent employee",
+        "pourcentage": 20.6,
+        "zone_chalandise": 4742,
+        "primaire": 2340,
+        "secondaire": 2402
+    },
+    {
+        "status": "Employee / Temporary employee",
+        "pourcentage":10.3,
+        "zone_chalandise": 2371,
+        "primaire": 1170,
+        "secondaire": 1201
+    },
+    {
+        "status": "Apprentice",
+        "pourcentage": 8.2,
+        "zone_chalandise": 1888,
+        "primaire": 931,
+        "secondaire": 956
+    },
+    {
+        "status": "Family help",
+        "pourcentage": 1,
+        "zone_chalandise": 230,
+        "primaire": 114,
+        "secondaire": 117
+    },
+    {
+        "status": "Others",
+        "pourcentage": 2,
+        "zone_chalandise": 460,
+        "primaire": 227,
+        "secondaire": 233
+    }
+]
