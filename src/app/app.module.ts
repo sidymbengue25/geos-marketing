@@ -21,6 +21,8 @@ import { PotentielEcoComponent } from './pages/accueil/potentiel-eco/potentiel-e
 import { StatistiquesComponent } from './pages/accueil/statistiques/statistiques.component';
 import { CategSocioEcoComponent } from './pages/accueil/categ-socio-eco/categ-socio-eco.component';
 import { DemoStatsComponent } from './pages/accueil/demo-stats/demo-stats.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -45,7 +47,8 @@ import { DemoStatsComponent } from './pages/accueil/demo-stats/demo-stats.compon
     MatExpansionModule,
     MatInputModule,
     MatCheckboxModule,
-    MatIconModule
+    MatIconModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],
   bootstrap: [AppComponent]

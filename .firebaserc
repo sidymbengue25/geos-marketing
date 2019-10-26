@@ -1,11 +1,5 @@
 {
-  "targets": {
-    "bookshelves-c7ef7": {
-      "hosting": {
-        "auchan-app": [
-          "bookshelves-c7ef7"
-        ]
-      }
-    }
+  "projects": {
+    "default": "auchan-app"
   }
 }
