@@ -33,12 +33,12 @@ Data are saved on a _firestore databes_ for persistency
 
 ## App screenshots
 
-![Screenshot 1](/src/assets/images/captures/capture1.jpg)
-![Screenshot 2](/src/assets/images/captures/capture2.jpg)
-![Screenshot 3](/src/assets/images/captures/capture3.jpg)
-![Screenshot 4](/src/assets/images/captures/capture4.jpg)
-![Screenshot 5](/src/assets/images/captures/capture5.jpg)
-![Screenshot 6](/src/assets/images/captures/capture6.jpg)
+![Screenshot 1](/src/assets/images/captures/capture1.JPG)
+![Screenshot 2](/src/assets/images/captures/capture2.JPG)
+![Screenshot 3](/src/assets/images/captures/capture3.JPG)
+![Screenshot 4](/src/assets/images/captures/capture4.JPG)
+![Screenshot 5](/src/assets/images/captures/capture5.JPG)
+![Screenshot 6](/src/assets/images/captures/capture6.JPG)
 
 ---
 
