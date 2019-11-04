@@ -33,11 +33,22 @@ Data are saved on a _firestore databes_ for persistency
 
 ## App screenshots
 
+1. Catchment Zone
+
 ![Screenshot 1](/src/assets/images/captures/capture1.JPG)
+
 ![Screenshot 2](/src/assets/images/captures/capture2.JPG)
+
+2. Demographic analyzes
+
 ![Screenshot 3](/src/assets/images/captures/capture3.JPG)
+
 ![Screenshot 4](/src/assets/images/captures/capture4.JPG)
+
+3. Economic analyzes
+
 ![Screenshot 5](/src/assets/images/captures/capture5.JPG)
+
 ![Screenshot 6](/src/assets/images/captures/capture6.JPG)
 
 ---
