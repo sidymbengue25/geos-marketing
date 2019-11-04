@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "auchan-app": {
+    "geos-marketing": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -36,7 +36,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/auchan-app",
+            "outputPath": "dist/geos-marketing",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -93,18 +93,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "auchan-app:build"
+            "browserTarget": "geos-marketing:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "auchan-app:build:production"
+              "browserTarget": "geos-marketing:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "auchan-app:build"
+            "browserTarget": "geos-marketing:build"
           }
         },
         "test": {
@@ -143,11 +143,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "auchan-app:serve"
+            "devServerTarget": "geos-marketing:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "auchan-app:serve:production"
+              "devServerTarget": "geos-marketing:serve:production"
             }
           }
         },
@@ -158,5 +158,5 @@
       }
     }
   },
-  "defaultProject": "auchan-app"
+  "defaultProject": "geos-marketing"
 }

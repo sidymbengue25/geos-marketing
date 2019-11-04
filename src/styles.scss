@@ -22,8 +22,8 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #0277bd ;
-  outline: 2px solid #0277bd ;
+  background-color: #1a237e ;
+  outline: 2px solid #1a237e ;
 }
 .mat-drawer-container {
   background: #fff;
@@ -51,7 +51,7 @@ h4 {
   }
 }
 .url {
-  color: #0277bd !important;
+  color: #1a237e !important;
   &:hover  {
     opacity: .8;
   }
@@ -123,7 +123,7 @@ h6 {
   height: 70vh;
 }
 .serv {
-  color: #0277bd !important;
+  color: #1a237e !important;
   font-weight: 400;
 }
 
@@ -157,7 +157,7 @@ h6 {
   flex-direction: column;
 }
 .mat-form-field-appearance-legacy .mat-form-field-label {
-  color: #0277bd !important;
+  color: #1a237e !important;
 }
 p {
   font-family: "Open Sans Light", sans-serif;
@@ -186,15 +186,15 @@ p {
 
 }
 input:not([type]):focus:not([readonly]) {
-  border-bottom: 1px solid #0277bd;
-  box-shadow: 0 1px 0 0 #0277bd;
+  border-bottom: 1px solid #1a237e;
+  box-shadow: 0 1px 0 0 #1a237e;
 }
 
 .mat-form-field.mat-focused .mat-form-field-ripple{
-  background-color: #0277bd;
+  background-color: #1a237e;
 }
 .mat-form-field-appearance-legacy .mat-form-field-underline {
-  background-color: #0277bd;
+  background-color: #1a237e;
 }
 // list , tabs and tables
 .mat-form-field-flex {
@@ -210,7 +210,7 @@ mat-list-item {
   height: auto !important;
   min-height: 30px !important;
   font-size: 15px !important;
-  color: #0277bd  !important;
+  color: #1a237e  !important;
  // padding-left: 4rem !important;
 
   p {
@@ -260,7 +260,7 @@ table {
     font-weight: 600 !important;
   }
   tr.head {
-    background: #0277bd,
+    background: #1a237e,
   }
   tr, th, td {
     border: 1px solid rgba(0,0,0,0.35);
@@ -307,7 +307,7 @@ button:focus {
   padding: 0 15px 16px;
 }
 .mat-expansion-panel-content {
-  background: #0278bdaf !important;
+  background: #1628abaf !important;
 }
 .mat-expansion-panel-header {
   display: flex;
@@ -315,7 +315,7 @@ button:focus {
   align-items: center;
   padding: 0 24px;
   border-radius: inherit;
-  background: #0277bd !important;
+  background: #1a237e !important;
   color: #fff !important;
   p, span {
     color: #fff !important;
@@ -346,6 +346,10 @@ button:focus {
 
 .preboot {
   min-height: 250px;
+  img {
+    height: 100px;
+    width: 195px;
+  }
 }
 
 .spinnerContainer {
@@ -362,7 +366,7 @@ button:focus {
 }
 
 .spinner>div {
-  background-color: #17743b ;
+  background-color: #1a237e ;
   height: 55px;
   width: 6px;
   margin-right: 1.5px;
@@ -552,7 +556,7 @@ td.mat-cell, td.mat-footer-cell, th.mat-header-cell {
   padding-left: 25px !important;
 }
 .mat-table thead {
-  background: #0277bd !important;
+  background: #1a237e !important;
 }
 .mat-dialog-content {
   max-height: 88vh !important;

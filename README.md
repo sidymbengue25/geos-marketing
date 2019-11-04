@@ -1,27 +1,92 @@
-# AuchanApp
+# Overview
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
+This project is about an **entreprise based Communication Application**.
 
-## Development server
+It integrate all the fonctionality you need for an efficient communication (unchecked means that it's on development)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- [x] Audio calling,
+- [x] Conference,
+- [x] chat,
+- [x] Screen sharing for peer working,
+- [x] Entreprise presentation for new employees,
+- [x] Call logs history,
+- [x] Members presentation,
+- [ ] File sharing,
+- [ ] video calling,
+- [ ] Customers map location,
+- [x] and more ...)
 
-## Code scaffolding
+It includes most of angular concepts
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Routing and lazy-loading
+- Dump components(data sharing and events raising and handling : `Input, Output, EvenEmitter`, and ...)
+- Router animations
+- Services,
+- Depandency Injection
+- Custom Directives
+- Custom Pipes
+- TrackBy for more performance for data rendering
+- Service Worker (PWA)
 
-## Build
+Data are saved on a _firestore databes_ for persistency
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Getting started
 
-## Running unit tests
+1. Fork the project,
+2. Run `npm install` and after all dependencies all installed
+3. Run `ng serve`
+4. With your navigator go to [localhost:4200](http://localhost:4200).
+5. For auth you can use
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- email :
 
-## Running end-to-end tests
+  - miisejj@gmail.com or
+  - matzmbengue@gmail.com or
+  - jnnwilly@gmail.com
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- password :
+  - 123456
+
+1. or you can adapt it with your own firebase project all you need is to change the firebase config in the environment and see the UserModel `app/models/user-model.ts` to see how data must be structured.<BR><BR>
+
+---
+
+## App screenshots
+
+![GitHub Logo](/images/logo.png)
+
+---
+
+## Usefull links
+
+- [Angular Docs](https://angular.io/docs)
+- [RXJS](https://rxjs-dev.firebaseapp.com/api)
+- [angular/fire](https://github.com/angular/angularfire2)
+- [Angular Material](https://material.angular.io/)
+- [Materialize Css](https://materializecss.com/)
+- [Rtcmulticonnection](https://github.com/muaz-khan/RTCMultiConnection)
+
+---
+
+## Community
+
+- Issues
+  Use the GitHub issue function if you have any requests, questions, or bug reports.
+- PullRequest
+  Use the GitHub pull request function if you want to contribute code
+
+---
+
+## Author infos
+
+Follow me on :
+
+- [GitHub](https://github.com/sidymbengue25)
+- [Twitter](https://twitter.com/mbengue_sidy)
+- [LinkedIn](https://www.linkedin.com/in/sidy-mbengue-a17000143/)
+
+---
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+For further informations you can ask me on sidymbengue25@gmail.com

@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
     `
       section {
         height: 100vh;
-        background-color: #0277bd;
+        background-color: #1a237e;
       }
       .mat-accordion a {
         color: #fff;

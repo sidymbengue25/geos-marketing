@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/auchan-app",
+    "public": "dist/geos-marketing",
     "ignore": [
       "firebase.json",
       "**/.*",
